@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ... everything about Java
 - 💞️ I’m looking to collaborate on ... exciting projects
 - 📫 You can reach me ... on all my social/profissional websites
-////
-
+-------------------------------------------------------------------------------
 - 👋 Oi, Eu sou Carlos Eduardo, um estudante de ciência da computação e java
 - 👀 Eu estou interessado em ... programação e fazer o mundo um lugar melhor
 - 🌱 Eu estou atualmente aprendendo ... tudo sobre Java
