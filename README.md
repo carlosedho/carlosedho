@@ -18,6 +18,7 @@
 
 ###
 
+Tá tocando agora 😎
 ![now playing](https://now-play.vercel.app/api/generate?uid=56531740-14d0-4ee1-8f2c-0f31a199332b)
 
 ###
