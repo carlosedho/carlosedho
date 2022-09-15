@@ -18,7 +18,7 @@
 
 ###
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12158642120&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12158642120&cover_image=true&theme=default&bar_color_cover=true&bar_color=06a800)]]
+![now playing](https://now-play.vercel.app/api/generate?uid=56531740-14d0-4ee1-8f2c-0f31a199332b)
 
 ###
 
