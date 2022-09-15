@@ -1,10 +1,4 @@
-<div align="right">
-  <img height="200" src="https://i.postimg.cc/qMsjGcW3/20210921-180713.jpg"  />
-</div>
-
-###
-
-<h2 align="left">Olá👋! Sou Carlos, um desenvolvedor java júnior apaixonado por programação.</h2><img height="200" src="https://i.postimg.cc/qMsjGcW3/20210921-180713.jpg"  />
+<h2>Olá👋! Sou Carlos, um desenvolvedor java júnior apaixonado por programação.</h2><img height="200" src="https://i.postimg.cc/qMsjGcW3/20210921-180713.jpg"  />
 
 
 ###
