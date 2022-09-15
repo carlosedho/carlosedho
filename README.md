@@ -1,32 +1,75 @@
-<h1 align="center">Olá👋, Eu sou Carlos Eduardo</h1>
-<h3 align="center">Um desenvolvedor java júnior apaixonado pela programação.</h3>
+<h2 align="left">Olá👋! Sou Carlos, um desenvolvedor java júnior apaixonado por programação.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosedho&label=Profile%20views&color=0e75b6&style=flat" alt="carlosedho" /> </p>
+###
+
+<p align="left">🌱 Atualmente estou aprendendo Algoritmos e Lógica de Programação (curso completo)<br><br>👨‍💻 Todos os meus projetos estão em https://github.com/carlosedho?tab=repositories<br><br>📫 Esse é meu email cduhno@gmail.com<br><br>⚡ Fun fact Apesar de ser programador Java, a primeira linguagem que eu tive interesse em aprender foi C#.</p>
+
+###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosedho" alt="carlosedho" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/carlosedho" target="blank"><img src="https://img.shields.io/twitter/follow/carlosedho?logo=twitter&style=for-the-badge" alt="carlosedho" /></a> </p>
+###
 
-- 🌱 Atualmente estou aprendendo **Algoritmos e Lógica de Programação (curso completo)**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=carlosedho" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=carlosedho" height="150" alt="languages graph"  />
+</div>
 
-- 👨‍💻 Todos os meus projetos estão em [https://github.com/carlosedho?tab=repositories](https://github.com/carlosedho?tab=repositories)
+###
 
-- 📫 Esse é meu email **cduhno@gmail.com**
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12158642120&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12158642120&cover_image=true&theme=default&bar_color_cover=true&bar_color=06a800)]]
 
-- ⚡ Fun fact **Apesar de ser programador Java, a primeira linguagem que eu tive interesse em aprender foi C#.**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/carlosedho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlosedho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carlosedho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosedho" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16895035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16895035" height="30" width="40" /></a>
-<a href="https://fb.com/carlosedho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlosedho" height="30" width="40" /></a>
-<a href="https://instagram.com/carlosedho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosedho" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<img href="https://raw.githubusercontent.com/carlosedho/carlosedho/blob/output/snake.svg" alt="Snake animation" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosedho&show_icons=true&locale=en&layout=compact" alt="carlosedho" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosedho&show_icons=true&locale=en" alt="carlosedho" /></p>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosedho.carlosedho&"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" width="42" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/5361cm.jpg"  />
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCD4ZHJ_8BLSKOf9fpS2UKnQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/carlosedho/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="cduhno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/carlosedho/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16895035/carlos-eduardo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="+5581971124365" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
